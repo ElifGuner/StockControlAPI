@@ -1,4 +1,5 @@
 Name of Angular GUI of this project is StockControl.
+Please check ReadMe.txt file in order to see the aligned versions of the following table examples.
 
 ---------------------------------------------------------------------
 		        Angular ve WebAPI ile Stok Kontrol Uygulaması			
